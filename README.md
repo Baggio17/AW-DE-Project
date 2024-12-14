@@ -20,6 +20,7 @@ This project integrates several Azure tools, including Azure Data Factory, Azure
 - Adventure Works Dataset: As the data source for the project.
 
 **4. Project Steps**
+
 Phase 1: Setting Up the Azure Environment
 - Setting Up Resources: Created a Resource Group and provisioned Azure Blob Storage, Data Lake, and Azure Data Factory.
 - Data Upload to GitHub: Uploaded the Adventure Works dataset to a GitHub repository to enable version control and easy access.
