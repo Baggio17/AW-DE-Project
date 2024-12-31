@@ -19,6 +19,10 @@ This project integrates several Azure tools, including Azure Data Factory, Azure
 - Power BI: For creating data visualizations and dashboards.
 - Adventure Works Dataset: As the data source for the project.
 
+![resources](https://github.com/user-attachments/assets/a5cc1429-1f83-4641-bbaf-c6b446e7b003)
+
+
+
 **4. Project Steps**
 
 Phase 1: Setting Up the Azure Environment
@@ -48,6 +52,9 @@ Phase 5: Data Visualization with Power BI
 - Error Troubleshooting: Debugging pipelines and configurations improved problem-solving skills.
 - Dynamic Pipelines: The use of parameterized pipelines showcased the importance of scalability and flexibility.
 - End-to-End Workflow: Following the Medallion architecture emphasized the role of structured, layered approaches in data management.
+
+<img width="551" alt="Data Architecture1" src="https://github.com/user-attachments/assets/17434a63-01be-416c-a5cc-607a7f6ecb77" />
+
   
 **6. Conclusion**
 This project not only enhanced my understanding of Azure’s data engineering tools but also provided a template for designing scalable, efficient data pipelines. The integration of tools like Azure Data Factory, Databricks, Synapse Analytics, and Power BI demonstrated how these technologies come together to support the data lifecycle from ingestion to visualization.
